@@ -1,0 +1,188 @@
+/*
+* @Author: lenovo
+* @Date:   2017-04-08 22:15:41
+* @Last Modified by:   lenovo
+* @Last Modified time: 2017-04-09 22:59:19
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 12px;
+}
+a{
+	text-decoration: none;
+}
+.head{
+	height: 50px;
+	background: #222222;
+}
+.box{
+	height: 50px;
+	margin: 0 auto;
+/* 	background: red; */
+}
+.qw1{
+	width: 136.06px;
+	height: 50px;
+/* 	background: red; */
+	line-height: 50px;
+	float: left;
+	text-align: center;
+}
+.qw1 a{
+	font-size: 20px;
+	color: #6B8D9D;
+}
+.qw2{
+	width: 68px;
+	height: 50px;
+	line-height: 50px;
+	background: #080808;
+	float: left;
+	text-align: center;	
+}
+.qw2 a{
+	font-size: 20px;
+	color: #FFFFD8;
+}
+.qw3{
+	width: 67px;
+	height: 50px;
+	line-height: 50px;
+/* 	background: blue; */
+	float: left;
+	text-align: center;
+}
+.qw3 a{
+	font-size: 20px;
+	color: #7E9D9D;
+}
+.qw4{
+	width: 79px;
+	height: 50px;
+	/* background: red; */
+	float: left;
+	line-height: 50px;
+	text-align: center;
+
+}
+.qw4 a{
+	font-size: 20px;
+	color: #7E9D9D;
+}
+.box a:hover{
+	color: #fff;
+}
+.hello{
+	/* width: 1170px; */
+	height: 814px;
+	margin: 0 auto;
+	margin-top: 60px;
+	/* float: left; */
+	
+}
+.hello .con{
+	height: auto;
+	margin: 0 auto;
+}
+.zuo{
+	width: 78%;
+	height: auto;
+	/* border-bottom: 1px solid #EEEEEE; */
+	/* position: relative; */
+	float: left;
+}
+.zuotop{
+/* 	width: 847.5px; */
+	height: 270px;
+	background: #EEEEEE;
+	margin-bottom: 30px; 
+}
+.zuotop .zz{
+	width: 80%;
+	height: 174px;
+	margin-top: 30px;
+	margin-left: 60px;
+}
+.zuotop .zz h1{
+	font-size: 50px;
+	color: #333333;
+	margin-bottom: 40px;
+	font-weight: 600;
+}
+.zuotop .zz p{
+	font-size: 19px;
+	color: #333333;
+}
+.san h2{
+	font-size: 30px;
+	color: #333333;
+}
+.san p {
+	font-size: 15px;
+	color: #333339; 
+}
+.san a{
+	display: block;
+	width: 120px;
+	height: 32px;
+	font-size: 12px;
+	color: #333333;
+	background: #fff;
+	border: 1px solid #ccc;
+	padding: 6px 12px;
+	border-radius: 8px;
+	box-sizing: border-box;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.san a:hover{
+	background: #E6E6E6;
+}
+.com{
+	width: 50%;
+	height: 90px;
+	/* background: yellow; */
+	margin: 0 auto;
+	border-top: 1px solid #eee;
+	line-height: 90px;
+	float: left;
+	margin-top: 30px;
+
+
+}
+.com h4{
+	color: #333333;
+	font-size: 14px;
+
+}
+.you{
+	width: 20%;
+	height: 431px;
+/* 	background: red; */
+/* 	position: absolute;
+	top: 22%;
+	left: 68%; */
+	float: right;
+
+}
+.you ul li{
+	width: 100%;
+	height: 42px;
+	border: 1px solid #DDDDDD;
+	line-height: 42px;
+
+}
+
+.you ul li:hover{
+	background: #F5F5F5;
+}
+.you ul>li:nth-child(1){
+	background: #337AB7;
+	color: #DFFFFF;
+}
+.you ul li span{
+	margin-left: 20px;
+}
+
